@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I´m Jørund Jenssen Berg. Worked in print industry, got fired when Covid hit, and I´m now studying Computer Science.
+
+- 🌱 I’m currently learning Go, Git/Github, Unix and Vim
+
 
 <!--
 **jjberg83/jjberg83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
