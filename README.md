@@ -1,6 +1,6 @@
-### Hi there 👋 I´m Jørund Jenssen Berg. Worked in print industry, got fired when Covid hit, and I´m now studying Computer Science.
+### Hi there 👋 I´m Jørund Jenssen Berg. Worked in print industry, changed gears and this summer I´ll finish my bachelor studies in Computer Science.
 
-- 🌱 I’m currently learning Go, Git/Github, Unix and Vim
+- 🌱 I’m currently learning C#, Technical Modelling and Discrete Mathematics.
 
 
 <!--
