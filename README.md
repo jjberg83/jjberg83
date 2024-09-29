@@ -1,6 +1,4 @@
-### Hi there 👋 I´m Jørund Jenssen Berg. This summer I´ll finish my bachelor studies in Computer Science.
-
-- 🌱 I’m currently learning C#, Technical Modelling and Discrete Mathematics.
+### Hi there 👋 I´m Jørund Jenssen Berg. I love coding in C#.
 
 
 <!--
