@@ -1,4 +1,4 @@
-### Hi there 👋 I´m Jørund Jenssen Berg. C# padawan.
+### Hi there 👋 I´m Jørund Jenssen Berg. C# padawan. Love Unix and Mac. Would love to master Vim plugin in VSCode.
 
 
 <!--
