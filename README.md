@@ -1,4 +1,4 @@
-### Hi there 👋 I´m Jørund Jenssen Berg. I love coding in C#.
+### Hi there 👋 I´m Jørund Jenssen Berg. C# padawan.
 
 
 <!--
