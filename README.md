@@ -1,4 +1,4 @@
-### Hi there 👋 I´m Jørund Jenssen Berg. C# padawan. Loves Unix and Mac. Would love to master Vim plugin in VSCode.
+### Hi there 👋 I´m Jørund Jenssen Berg. C# and React padawan. Loves Unix and Mac. Would love to master Vim plugin in VSCode.
 
 
 <!--
